@@ -1,0 +1,3 @@
+/usr/bin/bash: wq: command not found
+dsadsa
+daswq
